@@ -1,0 +1,2 @@
+# JavaScript-notes
+javascript学习笔记，用自己的话记录每个Js重要的知识点
